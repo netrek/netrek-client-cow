@@ -178,7 +178,7 @@ ignoreCaps: 		on
 # Recover after SEGV and BUS error
 ignoreSignals: 		on
 
-# Sound is really cool, but anoing for others.
+# Sound is really cool, but annoying for others.
 sounddir:               /usr/games/netrek/sounds
 sound:                  off
 
